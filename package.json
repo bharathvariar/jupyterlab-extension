@@ -7,14 +7,14 @@
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "https://github.com/bharathvariar/jupyterlab_apod",
+    "homepage": "https://github.com/bharathvariar/jupyterlab-extension",
     "bugs": {
-        "url": "https://github.com/bharathvariar/jupyterlab_apod/issues"
+        "url": "https://github.com/bharathvariar/jupyterlab-extension/issues"
     },
     "license": "BSD-3-Clause",
     "author": {
         "name": "Bharath",
-        "email": "variarb@uumich.edu"
+        "email": "variarb@umich.edu"
     },
     "files": [
         "lib/**/*.{d.ts,eot,gif,html,jpg,js,js.map,json,png,svg,woff2,ttf}",
@@ -25,7 +25,7 @@
     "style": "style/index.css",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bharathvariar/jupyterlab_apod.git"
+        "url": "https://github.com/bharathvariar/jupyterlab-extension.git"
     },
     "workspaces": [
         "ui-tests"
